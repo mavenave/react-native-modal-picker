@@ -22,7 +22,7 @@ export default StyleSheet.create({
         borderRadius:BORDER_RADIUS,
         width:width*0.8,
         height:OPTION_CONTAINER_HEIGHT,
-        backgroundColor:'rgba(255,255,255,0.8)',
+        backgroundColor:'white',
         left:width*0.1,
         top:(height-OPTION_CONTAINER_HEIGHT)/2
     },
